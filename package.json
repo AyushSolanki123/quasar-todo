@@ -2,7 +2,7 @@
   "name": "quasar-todo",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
-  "productName": "Quasar App",
+  "productName": "Todo",
   "author": "Ayush Solanki <ayush.solanki1981@gmail.com>",
   "private": true,
   "scripts": {
